@@ -16,15 +16,16 @@ header {
 }
 
 .content-logo {
+    width: auto;
     border-bottom: 1.5px solid #336f9a;
     display: flex;
     justify-content: space-around;
     align-items: center;
-    flex-wrap: wrap;
+    /*flex-wrap: wrap;*/
 }
 
 .img-logo {
-    max-width: 20%;
+    max-width: 25%;
     padding-right: 200px;
     display: flex;
     justify-content: center;
@@ -32,7 +33,7 @@ header {
 }
 
 .redes-sociales {
-    width: 15%;
+    width: 20%;
 
 }
 
